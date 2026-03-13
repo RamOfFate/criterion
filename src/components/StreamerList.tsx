@@ -69,15 +69,6 @@ const StreamerList = () => {
           + Add Review
         </Link>
       </div>
-      <div className="relative max-w-sm">
-        <Search className="absolute top-2.5 left-2.5 h-4 w-4 text-muted-foreground" />
-        <Input
-          placeholder="Search creators or platforms..."
-          className="pl-9"
-          value={searchQuery}
-          onChange={(e) => setSearchQuery(e.target.value)}
-        />
-      </div>
       <InputGroup>
         <InputGroupInput
           placeholder="Search..."

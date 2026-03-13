@@ -1,11 +1,11 @@
 {
   "streamers": [
     {
-      "id": "1",
       "name": "Stormyocus",
       "platform": "YouTube",
-      "rating": 5,
-      "description": "Very nice vibes, real talented when it comes to art, can be a bit freaky sometimes tho ngl."
+      "rating": 4,
+      "description": "Very nice vibes, real talented when it comes to art, can be a bit freaky sometimes tho ngl.",
+      "id": "1"
     },
     {
       "id": "2",
